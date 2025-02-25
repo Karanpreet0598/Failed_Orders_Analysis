@@ -1,10 +1,10 @@
 # Failed Orders Analysis
 
-### Overview
+## Overview
 
 This repository contains an assignment focused on data analysis using Python. The project involves analyzing orders and offers data to derive insights. The analysis is performed in a Jupyter Notebook (code.ipynb).
 
-### Dataset
+## Dataset
 
 The analysis is based on the following datasets:
 
@@ -12,7 +12,7 @@ data_offers.csv: Contains information about various offers and promotions.
 
 data_orders.csv: Contains details of customer orders.
 
-### Requirements
+## Requirements
 
 Ensure you have the following installed:
 
@@ -30,13 +30,13 @@ You can install the required dependencies using:
 
 > pip install pandas numpy matplotlib seaborn
 
-### Usage
+## Usage
 
 Clone this repository:
 
-> git clone https://github.com/Karanpreet0598/Failed_Orders_Analysis
+> git clone: https://github.com/Karanpreet0598/Failed_Orders_Analysis
 >
->>cd repo_name
+>>cd Failed_Orders_Analysis
 
 Open the Jupyter Notebook: code.ipynb
 
@@ -44,13 +44,16 @@ Run the cells sequentially to perform the analysis.
 
 Project Structure
 
-|-- code.ipynb          # Jupyter Notebook with analysis
-|-- data_offers.csv     # Offers dataset
-|-- data_orders.csv     # Orders dataset
-|-- charts/             # Folder containing generated charts
-|-- README.md           # Project documentation
+| File/Folder         | Description                              |
+|---------------------|------------------------------------------|
+| `code.ipynb`       | Jupyter Notebook with analysis          |
+| `data_offers.csv`  | Offers dataset                          |
+| `data_orders.csv`  | Orders dataset                          |
+| `charts/`          | Folder containing generated charts      |
+| `README.md`        | Project documentation                   |
 
-### Analysis Overview
+
+## Analysis Overview
 
 The analysis performed in the notebook includes:
 
