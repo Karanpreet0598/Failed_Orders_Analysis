@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an assignment focused on data analysis using Python. The project involves analyzing orders and offers data to derive insights. The analysis is performed in a Jupyter Notebook (code.ipynb).
+This repository contains an assignment focused on data analysis using Python. The project involves analyzing orders and offers data to derive insights. The study is performed in a Jupyter Notebook (code.ipynb).
 
 ## Dataset
 
@@ -34,7 +34,7 @@ You can install the required dependencies using:
 
 Clone this repository:
 
-> git clone: https://github.com/Karanpreet0598/Failed_Orders_Analysis
+> git clone https://github.com/Karanpreet0598/Failed_Orders_Analysis
 >
 >>cd Failed_Orders_Analysis
 
